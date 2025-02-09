@@ -1,0 +1,54 @@
+﻿# Environment files
+.env
+
+# User-specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.log
+*.cache
+*.zip
+*.vs/
+*.tlog
+*.tmp
+
+# Generated files
+*.g.cs
+*.g.i.cs
+*.AssemblyAttributes.cs
+*.csproj.user
+
+# ASP.NET Core files
+appsettings.json
+appsettings.Development.json
+
+# Entity Framework migrations
+Migrations/
+
+# Resharper & Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Logs and databases
+*.log
+*.db
+*.mdf
+*.ldf
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json

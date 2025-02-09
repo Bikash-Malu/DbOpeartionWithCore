@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbOpeartionWithCore", "DbOpeartionWithCore\DbOpeartionWithCore.csproj", "{CCF2DF09-C1DD-4C88-A785-14321937B11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF2DF09-C1DD-4C88-A785-14321937B11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF2DF09-C1DD-4C88-A785-14321937B11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF2DF09-C1DD-4C88-A785-14321937B11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF2DF09-C1DD-4C88-A785-14321937B11C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
